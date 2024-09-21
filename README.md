@@ -5,6 +5,10 @@ de code o day de sau nay luc lai lam tiep
 
 Đây là một ứng dụng Python sử dụng thư viện `zlapi` để tương tác với API Zalo. Ứng dụng này bao gồm một lớp `Client` kế thừa từ `ZaloAPI` với khả năng xử lý các tin nhắn, lấy thông tin người dùng, và gửi tin nhắn phản hồi.
 
+## TODO
+
+- recode lai 1 so thu de de doc hon
+  
 ## Yêu cầu
 
 - Python 3.9 hoặc mới hơn
